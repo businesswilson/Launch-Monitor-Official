@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-gradio
 opencv-python-headless
 mediapipe
 pydantic
 python-multipart
+gradio
